@@ -1555,7 +1555,9 @@ h6,
 
 
 
-
+#header2-1u .mbr-section-text {
+  font-family: 'Raleway', sans-serif;
+}
 #ext_menu-0 .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -1619,17 +1621,6 @@ h6,
   color: #c0a375!important;
 }
 #ext_menu-0 .btn {
-  font-family: 'Open Sans', sans-serif;
-}
-#header6-g .mbr-section-title {
-  color: #ffffff;
-}
-#header6-g .mbr-section-text {
-  color: #ffffff;
-  font-family: 'Noto Sans', sans-serif;
-  font-size: 16px;
-}
-#header6-g .btn {
   font-family: 'Open Sans', sans-serif;
 }
 #features6-1b P {
