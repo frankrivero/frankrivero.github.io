@@ -481,6 +481,12 @@ h6,
 #ext_menu-m .btn {
   font-family: 'Open Sans', sans-serif;
 }
+#gallery1-1w .mbr-gallery-item > div > span P {
+  text-align: left;
+}
+#gallery1-1w .mbr-gallery-item > div > span {
+  text-align: center;
+}
 #contacts1-n P {
   font-family: 'Open Sans', sans-serif;
 }
@@ -977,6 +983,9 @@ h6,
 }
 #ext_menu-12 .btn {
   font-family: 'Open Sans', sans-serif;
+}
+#form1-1y .form-control-label {
+  color: #232323;
 }
 #contacts1-13 P {
   font-family: 'Open Sans', sans-serif;
