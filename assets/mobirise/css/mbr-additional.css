@@ -1642,6 +1642,10 @@ h6,
 #content7-j DIV {
   font-family: 'Noto Sans', sans-serif;
 }
+#header3-23 .mbr-section-title,
+#header3-23 .mbr-section-subtitle {
+  text-align: center;
+}
 #contacts1-l P {
   font-family: 'Open Sans', sans-serif;
 }
