@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Portfolio",
-    "currentPage": "index.html",
+    "currentPage": "photoshop.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -201,13 +201,13 @@
             "paddingBottom": "1",
             "images": [
               {
-                "tags": "Awesome",
+                "tags": "Responsive",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/king-kong-2000x2962-800x1184.jpg",
-                "image": "@PROJECT_PATH@/assets/images/king-kong-2000x2962.jpg",
-                "caption": "Mock For A Devised King Kong Movie",
+                "thumb": "@PROJECT_PATH@/assets/images/faces-logo-2000x2962-800x1184.jpg",
+                "image": "@PROJECT_PATH@/assets/images/faces-logo-2000x2962.jpg",
+                "caption": "Faces And Images Representing Differing Emotions- Poster For Play",
                 "active": false
               },
               {
@@ -215,19 +215,9 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/costume-party-2000x2962-800x1184.jpg",
-                "image": "@PROJECT_PATH@/assets/images/costume-party-2000x2962.jpg",
-                "caption": "Merging The Image Of An Animal Or Creature To A Human Face",
-                "active": false
-              },
-              {
-                "tags": "Creative",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/antigone-2000x2962-800x1184.jpg",
-                "image": "@PROJECT_PATH@/assets/images/antigone-2000x2962.jpg",
-                "caption": "Poster For The Play \"Antigone Now\"",
+                "thumb": "@PROJECT_PATH@/assets/images/avengers-compilation-2000x2962-800x1184.jpg",
+                "image": "@PROJECT_PATH@/assets/images/avengers-compilation-2000x2962.jpg",
+                "caption": "Redraw Of The Avengers",
                 "active": false
               },
               {
@@ -261,26 +251,6 @@
                 "active": false
               },
               {
-                "tags": "Animated",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/plantstic-logo-2000x2962-800x1184.jpg",
-                "image": "@PROJECT_PATH@/assets/images/plantstic-logo-2000x2962.jpg",
-                "caption": "Logo For Plant Plastic Products",
-                "active": false
-              },
-              {
-                "tags": "Responsive",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/faces-logo-2000x2962-800x1184.jpg",
-                "image": "@PROJECT_PATH@/assets/images/faces-logo-2000x2962.jpg",
-                "caption": "Faces And Images Representing Differing Emotions- Poster For Play",
-                "active": false
-              },
-              {
                 "tags": "Responsive",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
@@ -305,29 +275,9 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/avengers-compilation-2000x2962-800x1184.jpg",
-                "image": "@PROJECT_PATH@/assets/images/avengers-compilation-2000x2962.jpg",
-                "caption": "Redraw Of The Avengers",
-                "active": false
-              },
-              {
-                "tags": "Responsive",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/12-inch-record-label-2000x2962-800x1184.jpg",
                 "image": "@PROJECT_PATH@/assets/images/12-inch-record-label-2000x2962.jpg",
                 "caption": "CD Cover, Front &amp; Back Of A Record Labels With Lyric And Artwork",
-                "active": false
-              },
-              {
-                "tags": "Responsive",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/mdcps-logo-2000x2962-800x1184.jpg",
-                "image": "@PROJECT_PATH@/assets/images/mdcps-logo-2000x2962.jpg",
-                "caption": "New 2017 Logo For MDCPS- Inserted Into MDCPS Refresh Comp",
                 "active": true
               }
             ],
