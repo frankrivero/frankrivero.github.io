@@ -1564,8 +1564,12 @@ h6,
 
 
 
-#header2-1u .mbr-section-text {
-  font-family: 'Raleway', sans-serif;
+#msg-box5-25 H3 {
+  color: #ffffff;
+}
+#msg-box5-25 P {
+  color: #ffffff;
+  font-family: 'Noto Sans', sans-serif;
 }
 #ext_menu-0 .hide-buttons .nav-btn {
   display: none !important;
