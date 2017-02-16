@@ -2627,9 +2627,12 @@
               "color": "#ffffff"
             },
             "P": {
-              "color": "#ffffff",
+              "color": "#efefef",
               "font-family": "'Noto Sans', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Noto+Sans:400,700"
+            },
+            "DIV": {
+              "color": "#efefef"
             }
           }
         },
