@@ -919,80 +919,6 @@ h6,
 
 
 
-#ext_menu-12 .hide-buttons .nav-btn {
-  display: none !important;
-}
-#ext_menu-12 .navbar-caption {
-  color: #ffffff;
-}
-#ext_menu-12 .navbar-toggler {
-  color: #ffffff;
-}
-#ext_menu-12 .close-icon::before,
-#ext_menu-12 .close-icon::after {
-  background-color: #ffffff;
-}
-#ext_menu-12 .link,
-#ext_menu-12 .dropdown-item {
-  color: #ffffff;
-  font-family: 'Open Sans', sans-serif;
-}
-#ext_menu-12 .link {
-  font-size: 0.8rem;
-}
-#ext_menu-12 .dropdown-item,
-#ext_menu-12 .nav-dropdown-sm .link {
-  font-size: 0.866rem;
-}
-#ext_menu-12 .link:hover,
-#ext_menu-12 .dropdown-item:hover,
-#ext_menu-12 .link:focus,
-#ext_menu-12 .dropdown-item:focus {
-  color: #c0a375;
-}
-#ext_menu-12 .link[aria-expanded="true"],
-#ext_menu-12 .dropdown-menu {
-  background: #0e0e0e;
-}
-#ext_menu-12 .nav-dropdown-sm .link:focus,
-#ext_menu-12 .nav-dropdown-sm .link:hover,
-#ext_menu-12 .nav-dropdown-sm .dropdown-item:focus,
-#ext_menu-12 .nav-dropdown-sm .dropdown-item:hover {
-  background: #202020!important;
-}
-#ext_menu-12 .navbar,
-#ext_menu-12 .nav-dropdown-sm,
-#ext_menu-12 .nav-dropdown-sm .link[aria-expanded="true"],
-#ext_menu-12 .nav-dropdown-sm .dropdown-menu {
-  background: #282828;
-}
-#ext_menu-12 .bg-color.transparent .link {
-  color: #ffffff;
-  transition: none;
-}
-#ext_menu-12 .bg-color.transparent.opened .link {
-  transition: color 0.2s ease-in-out;
-}
-#ext_menu-12 .bg-color.transparent.opened .link:hover,
-#ext_menu-12 .bg-color.transparent.opened .link:focus {
-  color: #c0a375;
-}
-#ext_menu-12 .link[aria-expanded="true"],
-#ext_menu-12 .dropdown-item[aria-expanded="true"] {
-  color: #c0a375!important;
-}
-#ext_menu-12 .btn {
-  font-family: 'Open Sans', sans-serif;
-}
-#form1-1y .form-control-label {
-  color: #232323;
-}
-#contacts1-13 P {
-  font-family: 'Open Sans', sans-serif;
-}
-
-
-
 #ext_menu-14 .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -1560,11 +1486,9 @@ h6,
 }
 
 
-
-
-
-#msg-box4-2f DIV {
-  color: #ffffff;
+#header3-3i .mbr-section-title,
+#header3-3i .mbr-section-subtitle {
+  text-align: center;
 }
 #ext_menu-0 .hide-buttons .nav-btn {
   display: none !important;
@@ -1631,20 +1555,85 @@ h6,
 #ext_menu-0 .btn {
   font-family: 'Open Sans', sans-serif;
 }
-#features6-1b P {
+
+
+
+
+#msg-box4-39 DIV {
+  color: #ffffff;
+}
+#ext_menu-3a .hide-buttons .nav-btn {
+  display: none !important;
+}
+#ext_menu-3a .navbar-caption {
+  color: #ffffff;
+}
+#ext_menu-3a .navbar-toggler {
+  color: #ffffff;
+}
+#ext_menu-3a .close-icon::before,
+#ext_menu-3a .close-icon::after {
+  background-color: #ffffff;
+}
+#ext_menu-3a .link,
+#ext_menu-3a .dropdown-item {
+  color: #ffffff;
+  font-family: 'Open Sans', sans-serif;
+}
+#ext_menu-3a .link {
+  font-size: 0.8rem;
+}
+#ext_menu-3a .dropdown-item,
+#ext_menu-3a .nav-dropdown-sm .link {
+  font-size: 0.866rem;
+}
+#ext_menu-3a .link:hover,
+#ext_menu-3a .dropdown-item:hover,
+#ext_menu-3a .link:focus,
+#ext_menu-3a .dropdown-item:focus {
+  color: #c0a375;
+}
+#ext_menu-3a .link[aria-expanded="true"],
+#ext_menu-3a .dropdown-menu {
+  background: #0e0e0e;
+}
+#ext_menu-3a .nav-dropdown-sm .link:focus,
+#ext_menu-3a .nav-dropdown-sm .link:hover,
+#ext_menu-3a .nav-dropdown-sm .dropdown-item:focus,
+#ext_menu-3a .nav-dropdown-sm .dropdown-item:hover {
+  background: #202020!important;
+}
+#ext_menu-3a .navbar,
+#ext_menu-3a .nav-dropdown-sm,
+#ext_menu-3a .nav-dropdown-sm .link[aria-expanded="true"],
+#ext_menu-3a .nav-dropdown-sm .dropdown-menu {
+  background: #282828;
+}
+#ext_menu-3a .bg-color.transparent .link {
+  color: #ffffff;
+  transition: none;
+}
+#ext_menu-3a .bg-color.transparent.opened .link {
+  transition: color 0.2s ease-in-out;
+}
+#ext_menu-3a .bg-color.transparent.opened .link:hover,
+#ext_menu-3a .bg-color.transparent.opened .link:focus {
+  color: #c0a375;
+}
+#ext_menu-3a .link[aria-expanded="true"],
+#ext_menu-3a .dropdown-item[aria-expanded="true"] {
+  color: #c0a375!important;
+}
+#ext_menu-3a .btn {
+  font-family: 'Open Sans', sans-serif;
+}
+#features6-3b P {
   font-family: 'Noto Sans', sans-serif;
   font-size: 16px;
 }
-#content2-1a BLOCKQUOTE {
+#content2-3c BLOCKQUOTE {
   text-align: center;
 }
-#content7-j DIV {
+#content7-3d DIV {
   font-family: 'Noto Sans', sans-serif;
-}
-#header3-23 .mbr-section-title,
-#header3-23 .mbr-section-subtitle {
-  text-align: center;
-}
-#contacts1-l P {
-  font-family: 'Open Sans', sans-serif;
 }
