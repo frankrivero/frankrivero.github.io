@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Portfolio",
-    "currentPage": "introduction.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -2413,8 +2413,8 @@
             "showText": true,
             "showButtons": true
           },
-          "title": "Welcome",
-          "text": "\"A Mind Needs Books Like A Sword Needs A Whetstone\"<br>\"If Its To Keep Its Edge\"<br>",
+          "title": "Welcome<br><br>",
+          "text": "\"A Mind Needs Books Like A Sword Needs A Whetstone\"<br>\"If Its To Keep Its Edge\"<br>-Tyrion Lannister",
           "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"introduction.html\" data-toolbar=\"-mbrBtnMove\">CONTINUE</a>"
         },
         {
