@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Portfolio",
-    "currentPage": "introduction.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -22,7 +22,7 @@
     },
     "versionFirst": "3.10.7",
     "uniqCompNum": 120,
-    "versionPublish": "3.10.4",
+    "versionPublish": "3.10.7",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png"
   },
@@ -2934,7 +2934,9 @@
             "bgColor": "#fff",
             "bgColorRadio": false,
             "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+              "width": 1280,
+              "height": 720,
+              "url": "https://www.youtube.com/embed/obO9OIFnvAE?rel=0&amp;showinfo=0&autoplay=0&loop=0"
             },
             "bgVideoRadio": true,
             "overlay": true,
@@ -2981,7 +2983,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/faces-logo-2000x2962-800x1184.jpg",
-                "image": "@PROJECT_PATH@/assets/images/faces-logo-2000x29626.jpg",
+                "image": "@PROJECT_PATH@/assets/images/faces-logo-2000x29623.jpg",
                 "caption": "Poster For Different Emotions",
                 "active": false
               },
@@ -2991,7 +2993,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/avengers-compilation-2000x2962-800x1184.jpg",
-                "image": "@PROJECT_PATH@/assets/images/avengers-compilation-2000x29627.jpg",
+                "image": "@PROJECT_PATH@/assets/images/avengers-compilation-2000x29624.jpg",
                 "caption": "Avengers Logo Redraw",
                 "active": false
               },
@@ -3011,7 +3013,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/12-inch-record-label-2000x2962-800x1184.jpg",
-                "image": "@PROJECT_PATH@/assets/images/12-inch-record-label-2000x29628.jpg",
+                "image": "@PROJECT_PATH@/assets/images/12-inch-record-label-2000x29625.jpg",
                 "caption": "Record Label And CD For AC/DC",
                 "active": true
               }
