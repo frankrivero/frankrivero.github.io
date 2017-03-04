@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Portfolio",
-    "currentPage": "introduction.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -21,8 +21,8 @@
       }
     },
     "versionFirst": "3.10.7",
-    "uniqCompNum": 129,
-    "versionPublish": "3.10.4",
+    "uniqCompNum": 131,
+    "versionPublish": "3.10.7",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png"
   },
@@ -114,7 +114,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/signaturelogo-512x128-1.png",
+              "src": "@PROJECT_PATH@/assets/images/untitled-2-512x128-2.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "index.html",
@@ -453,10 +453,12 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@THEME_PATH@/components/_images/logo.png",
+              "src": "@PROJECT_PATH@/assets/images/untitled-2-512x128-3.png",
               "height": 128,
               "alt": "Mobirise",
-              "link": "https://mobirise.com"
+              "link": "https://mobirise.com",
+              "title": "",
+              "linkInNewWindow": false
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-menu",
@@ -1369,7 +1371,8 @@
     },
     "matthewpate.html": {
       "settings": {
-        "order": 11
+        "order": 11,
+        "title": "Frank Rivero"
       },
       "components": [
         {
@@ -1517,7 +1520,8 @@
     },
     "teacher.html": {
       "settings": {
-        "order": 12
+        "order": 12,
+        "title": "Frank Rivero"
       },
       "components": [
         {
@@ -1665,7 +1669,8 @@
     },
     "community.html": {
       "settings": {
-        "order": 13
+        "order": 13,
+        "title": "Frank Rivero"
       },
       "components": [
         {
@@ -1813,7 +1818,8 @@
     },
     "ic3livingonline.html": {
       "settings": {
-        "order": 14
+        "order": 14,
+        "title": "Frank Rivero"
       },
       "components": [
         {
@@ -1961,7 +1967,8 @@
     },
     "ic3computingfundamentals.html": {
       "settings": {
-        "order": 15
+        "order": 15,
+        "title": "Frank Rivero"
       },
       "components": [
         {
@@ -2109,7 +2116,8 @@
     },
     "photoshopcredential.html": {
       "settings": {
-        "order": 16
+        "order": 16,
+        "title": "Frank Rivero"
       },
       "components": [
         {
@@ -2257,7 +2265,8 @@
     },
     "teacher2.html": {
       "settings": {
-        "order": 17
+        "order": 17,
+        "title": "Frank Rivero"
       },
       "components": [
         {
@@ -2406,7 +2415,7 @@
     "introduction.html": {
       "settings": {
         "main": true,
-        "title": "",
+        "title": "Frank Rivero",
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
@@ -2554,7 +2563,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/signaturelogo-512x128.png",
+              "src": "@PROJECT_PATH@/assets/images/untitled-2-512x128.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "index.html",
@@ -2893,7 +2902,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/signaturelogo-512x128.png",
+              "src": "@PROJECT_PATH@/assets/images/untitled-2-512x128-1.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "index.html",
@@ -3009,7 +3018,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/faces-logo-2000x2962-800x1184.jpg",
-                "image": "@PROJECT_PATH@/assets/images/faces-logo-2000x29629.jpg",
+                "image": "@PROJECT_PATH@/assets/images/faces-logo-2000x29623.jpg",
                 "caption": "Poster For Different Emotions",
                 "active": false
               },
@@ -3019,7 +3028,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/avengers-compilation-2000x2962-800x1184.jpg",
-                "image": "@PROJECT_PATH@/assets/images/avengers-compilation-2000x296210.jpg",
+                "image": "@PROJECT_PATH@/assets/images/avengers-compilation-2000x29624.jpg",
                 "caption": "Avengers Logo Redraw",
                 "active": false
               },
@@ -3039,7 +3048,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/12-inch-record-label-2000x2962-800x1184.jpg",
-                "image": "@PROJECT_PATH@/assets/images/12-inch-record-label-2000x296211.jpg",
+                "image": "@PROJECT_PATH@/assets/images/12-inch-record-label-2000x29625.jpg",
                 "caption": "Record Label And CD For AC/DC",
                 "active": true
               }
@@ -3156,7 +3165,9 @@
       ]
     },
     "ic3livingonlin.html": {
-      "settings": {},
+      "settings": {
+        "title": "Frank Rivero"
+      },
       "components": [
         {
           "_inherit": "menu",
@@ -3328,7 +3339,9 @@
       ]
     },
     "ic3computingfundamental.html": {
-      "settings": {},
+      "settings": {
+        "title": "Frank Rivero"
+      },
       "components": [
         {
           "_inherit": "menu",
@@ -3500,7 +3513,9 @@
       ]
     },
     "photoshopcertificate.html": {
-      "settings": {},
+      "settings": {
+        "title": "Frank Rivero"
+      },
       "components": [
         {
           "_inherit": "menu",
