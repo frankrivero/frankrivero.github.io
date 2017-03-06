@@ -486,6 +486,10 @@ h6,
 #gallery1-1w .mbr-gallery-item > div > span {
   text-align: center;
 }
+#header3-3n .mbr-section-title,
+#header3-3n .mbr-section-subtitle {
+  text-align: center;
+}
 
 
 

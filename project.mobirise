@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Portfolio",
-    "currentPage": "introduction.html",
+    "currentPage": "photoshop.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -21,8 +21,8 @@
       }
     },
     "versionFirst": "3.10.7",
-    "uniqCompNum": 131,
-    "versionPublish": "3.10.7",
+    "uniqCompNum": 133,
+    "versionPublish": "3.10.4",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png"
   },
@@ -291,6 +291,128 @@
             "showBullets": true
           },
           "_anchor": "gallery1-1w",
+          "articleLayout": false,
+          "allItem": "All"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-3n",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff",
+            "showMeta": true
+          },
+          "title": "Edvard Munch's Scream Redraw",
+          "meta": "Project 11- Masterpiece Redraw"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery1",
+          "_params": {
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "images": [
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/frank-rivero-scream-redraw-1-2000x2666-83-800x1066-22.jpg",
+                "image": "@PROJECT_PATH@/assets/images/frank-rivero-scream-redraw-1-2000x2666-83.jpg",
+                "caption": "Scream Redraw- 1",
+                "active": true
+              },
+              {
+                "tags": "Responsive",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/frank-rivero-scream-redraw-2-2000x2666-13-800x1066-2.jpg",
+                "image": "@PROJECT_PATH@/assets/images/frank-rivero-scream-redraw-2-2000x2666-13.jpg",
+                "caption": "Scream Redraw- 2",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/frank-rivero-scream-redraw-3-2000x2666-91-800x1066-6.jpg",
+                "image": "@PROJECT_PATH@/assets/images/frank-rivero-scream-redraw-3-2000x2666-91.jpg",
+                "caption": "Scream Redraw- 3",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/frank-rivero-scream-redraw-4-2000x2666-30-800x1066-52.jpg",
+                "image": "@PROJECT_PATH@/assets/images/frank-rivero-scream-redraw-4-2000x2666-30.jpg",
+                "caption": "Scream Redraw- 4",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/frank-rivero-scream-redraw-5-2000x2666-4-800x1066-40.jpg",
+                "image": "@PROJECT_PATH@/assets/images/frank-rivero-scream-redraw-5-2000x2666-4.jpg",
+                "caption": "Scream Redraw- 5",
+                "active": false
+              },
+              {
+                "tags": "Beautiful",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/frank-rivero-scream-redraw-6-2000x2666-74-800x1066-67.jpg",
+                "image": "@PROJECT_PATH@/assets/images/frank-rivero-scream-redraw-6-2000x2666-74.jpg",
+                "caption": "Scream Redraw- 6",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/frank-rivero-scream-redraw-7-2000x2666-73-800x1066-80.jpg",
+                "image": "@PROJECT_PATH@/assets/images/frank-rivero-scream-redraw-7-2000x2666-73.jpg",
+                "caption": "Scream Redraw- 7",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/frank-rivero-scream-redraw-8-2000x2666-98-800x1066-12.jpg",
+                "image": "@PROJECT_PATH@/assets/images/frank-rivero-scream-redraw-8-2000x2666-98.jpg",
+                "caption": "Scream Redraw- 8",
+                "active": false
+              }
+            ],
+            "spacing": "1",
+            "showText": true,
+            "filter": false,
+            "bgColor": "#FFFFFF",
+            "filterBgColor": false,
+            "fullWidth": false,
+            "showBullets": true
+          },
+          "_anchor": "gallery1-3o",
           "articleLayout": false,
           "allItem": "All"
         },
