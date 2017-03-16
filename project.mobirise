@@ -431,7 +431,57 @@
                 "thumb": "@PROJECT_PATH@/assets/images/frank-rivero-scream-redraw-11-2000x2666-800x1066.jpg",
                 "image": "@PROJECT_PATH@/assets/images/frank-rivero-scream-redraw-11-2000x2666.jpg",
                 "caption": "Scream Redraw- 11",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/frank-rivero-scream-redraw-12-2000x2666-800x1066.jpg",
+                "image": "@PROJECT_PATH@/assets/images/frank-rivero-scream-redraw-12-2000x2666.jpg",
+                "caption": "Scream Redraw- 12",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/frank-rivero-scream-redraw-13-2000x2666-800x1066.jpg",
+                "image": "@PROJECT_PATH@/assets/images/frank-rivero-scream-redraw-13-2000x2666.jpg",
+                "caption": "Scream Redraw- 13",
                 "active": true
+              },
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/frank-rivero-scream-redraw-14-2000x2666-800x1066.jpg",
+                "image": "@PROJECT_PATH@/assets/images/frank-rivero-scream-redraw-14-2000x2666.jpg",
+                "caption": "Scream Redraw- 14",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/frank-rivero-scream-redraw-15-2000x2666-800x1066.jpg",
+                "image": "@PROJECT_PATH@/assets/images/frank-rivero-scream-redraw-15-2000x2666.jpg",
+                "caption": "Scream Redraw- 15",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/frank-rivero-scream-redraw-16-2000x2666-800x1066.jpg",
+                "image": "@PROJECT_PATH@/assets/images/frank-rivero-scream-redraw-16-2000x2666.jpg",
+                "caption": "Scream Redraw- 16",
+                "active": false
               }
             ],
             "spacing": "1",
