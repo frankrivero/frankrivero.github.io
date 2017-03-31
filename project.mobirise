@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Portfolio",
-    "currentPage": "photoshop.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -21,8 +21,8 @@
       }
     },
     "versionFirst": "3.10.7",
-    "uniqCompNum": 138,
-    "versionPublish": "3.10.7",
+    "uniqCompNum": 147,
+    "versionPublish": "3.10.4",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png"
   },
@@ -3230,40 +3230,39 @@
           "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"introduction.html\" data-toolbar=\"-mbrBtnMove\">CONTINUE</a>"
         },
         {
-          "_inherit": "content5",
+          "_inherit": "msg-box8",
           "_styles": {
             ".mbr-section-title, p": {
-              "text-align": "right",
-              "color": "#fff"
+              "color": "#000"
             }
           },
           "_tags": [
             "Theme"
           ],
-          "_name": "content8",
-          "_anchor": "content8-3a",
+          "_name": "msg-box3",
+          "_anchor": "msg-box3-42",
           "_params": {
-            "paddingTop": "5",
-            "paddingBottom": "5",
-            "bgImageRadio": false,
+            "paddingTop": "1",
+            "paddingBottom": "1",
             "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/desert2.jpg",
-            "bgColor": "#fff",
-            "bgColorRadio": false,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
+            "bgColor": "#ffffff",
+            "bgColorRadio": true,
             "bgVideo": {
-              "width": 1280,
-              "height": 720,
-              "url": "https://www.youtube.com/embed/obO9OIFnvAE?rel=0&amp;showinfo=0&autoplay=0&loop=0"
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "bgVideoRadio": true,
-            "overlay": true,
+            "bgVideoRadio": false,
+            "overlay": false,
             "overlayOpacity": 0.5,
-            "overlayColor": "#000",
-            "showTitle": false,
-            "showCaption": false
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showText": true,
+            "showButton": true
           },
-          "title": "BACKGROUND VIDEO",
-          "caption": "<p>Make your own website in a few clicks! Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface. MobiRise Website Builder creates responsive, retina and mobile friendly websites in a few clicks. Mobirise is one of the easiest website development tools available today. It also gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.</p>"
+          "title": "Introduction Video",
+          "text": "<p>In this film, I go over who I am, Where I am at with respect to digital literacy, and what I aspire to become in the near future.</p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://www.youtube.com/watch?v=c3VVi9j1j_o\" data-toolbar=\"-mbrBtnMove\">INTRO VIDEO</a>"
         },
         {
           "_styles": {
@@ -3279,7 +3278,7 @@
           "_params": {
             "paddingTop": 1,
             "paddingBottom": 1,
-            "bgColor": "#ffffff",
+            "bgColor": "#efefef",
             "showMeta": true
           },
           "title": "Sample Work",
@@ -3372,7 +3371,7 @@
             "overlayColor": "#222"
           },
           "text": "FOLLOW US",
-          "icons": "   <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"YouTube\" target=\"_blank\" href=\"https://www.youtube.com/channel/UCb9uUjKL2CHbKSyMBXiQd4Q\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-youtube\"></i></a>       "
+          "icons": "   <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"YouTube\" target=\"_blank\" href=\"https://www.youtube.com/channel/UCb9uUjKL2CHbKSyMBXiQd4Q\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><span class=\"socicon socicon-youtube mbr-iconfont mbr-iconfont-btn\"></span></a>       "
         },
         {
           "_tags": [
