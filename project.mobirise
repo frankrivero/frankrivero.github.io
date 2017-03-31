@@ -3371,7 +3371,7 @@
             "overlayColor": "#222"
           },
           "text": "FOLLOW US",
-          "icons": "   <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"YouTube\" target=\"_blank\" href=\"https://www.youtube.com/channel/UCb9uUjKL2CHbKSyMBXiQd4Q\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><span class=\"socicon socicon-play mbr-iconfont mbr-iconfont-btn\"></span></a>       "
+          "icons": "   <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"YouTube\" target=\"_blank\" href=\"https://www.youtube.com/channel/UCb9uUjKL2CHbKSyMBXiQd4Q\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><span class=\"mbri-video-play mbr-iconfont mbr-iconfont-btn\"></span></a>       "
         },
         {
           "_tags": [
