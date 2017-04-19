@@ -634,7 +634,6 @@ h6,
 }
 
 
-
 #ext_menu-s .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -698,9 +697,6 @@ h6,
   color: #c0a375!important;
 }
 #ext_menu-s .btn {
-  font-family: 'Open Sans', sans-serif;
-}
-#contacts1-t P {
   font-family: 'Open Sans', sans-serif;
 }
 
