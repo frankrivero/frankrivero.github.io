@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Portfolio",
-    "currentPage": "premiere.html",
+    "currentPage": "photoshop.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -21,7 +21,7 @@
       }
     },
     "versionFirst": "3.10.7",
-    "uniqCompNum": 150,
+    "uniqCompNum": 157,
     "versionPublish": "3.10.7",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png"
@@ -185,6 +185,71 @@
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
         },
         {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-47",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff",
+            "showMeta": true
+          },
+          "title": "Latest Project",
+          "meta": "Stop Youth Gun Violence- 5/4/17"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image1",
+          "_anchor": "image1-4c",
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/stop-gun-violence-1400x1081.jpg",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
+            }
+          },
+          "_params": {
+            "showText": true
+          },
+          "text": "This Image Depicts All The Reasons To Shot On The Fingers, The Thought That There Is Always Another Way Holds The Safety, And A Teardrop Excreting From The Bullet Shows The Cost Of Impulsiveness."
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-4a",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": "0",
+            "bgColor": "#fff",
+            "showMeta": true
+          },
+          "title": "Past Projects",
+          "meta": "Since 2015"
+        },
+        {
           "_tags": [
             "Theme"
           ],
@@ -198,7 +263,7 @@
             }
           },
           "_params": {
-            "paddingTop": "2",
+            "paddingTop": "1",
             "paddingBottom": "1",
             "images": [
               {
@@ -4352,7 +4417,7 @@
             },
             "video": {
               "active": true,
-              "src": "https://youtu.be/M82FEyN-HuU",
+              "src": "https://youtu.be/ApQVFyfXWP0",
               "aspectratio": "16:9",
               "autoplay": false,
               "loop": false
@@ -4365,7 +4430,7 @@
           },
           "title": "A Thousand Million Reasons- Rough Draft<br>",
           "text": "<p>Online video and Youtube particularly is now more popular than cable television.</p>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://youtu.be/M82FEyN-HuU\" data-toolbar=\"-mbrBtnMove\">View On Youtube</a>"
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://youtu.be/ApQVFyfXWP0\" data-toolbar=\"-mbrBtnMove\">View On Youtube</a>"
         },
         {
           "_tags": [
