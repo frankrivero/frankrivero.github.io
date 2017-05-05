@@ -21,7 +21,7 @@
       }
     },
     "versionFirst": "3.10.7",
-    "uniqCompNum": 157,
+    "uniqCompNum": 158,
     "versionPublish": "3.10.7",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png"
@@ -194,51 +194,6 @@
             "Theme"
           ],
           "_name": "header3",
-          "_anchor": "header3-47",
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#fff",
-            "showMeta": true
-          },
-          "title": "Latest Project",
-          "meta": "Stop Youth Gun Violence- 5/4/17"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "image1",
-          "_anchor": "image1-4c",
-          "media": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/stop-gun-violence-1400x1081.jpg",
-              "width": 1400,
-              "link": "",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
-            },
-            "video": {
-              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
-            }
-          },
-          "_params": {
-            "showText": true
-          },
-          "text": "This Image Depicts All The Reasons To Shot On The Fingers, The Thought That There Is Always Another Way Holds The Safety, And A Teardrop Excreting From The Bullet Shows The Cost Of Impulsiveness."
-        },
-        {
-          "_styles": {
-            ".mbr-section-title, .mbr-section-subtitle": {
-              "text-align": "center"
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header3",
           "_anchor": "header3-4a",
           "_params": {
             "paddingTop": 1,
@@ -246,7 +201,7 @@
             "bgColor": "#fff",
             "showMeta": true
           },
-          "title": "Past Projects",
+          "title": "Photoshop Projects",
           "meta": "Since 2015"
         },
         {
@@ -266,6 +221,16 @@
             "paddingTop": "1",
             "paddingBottom": "1",
             "images": [
+              {
+                "tags": "Responsive",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/stop-gun-violence-for-site-2000x2962-800x1184.jpg",
+                "image": "@PROJECT_PATH@/assets/images/stop-gun-violence-for-site-2000x2962.jpg",
+                "caption": "This Image Depicts All The Reasons To Shoot On The Fingers, The Thought That There Is Always Another Way Holds The Safety, And A Teardrop Excreting From The Bullet Shows The Cost Of Impulsiveness.",
+                "active": true
+              },
               {
                 "tags": "Responsive",
                 "playVideo": false,
@@ -344,7 +309,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/12-inch-record-label-2000x2962-800x1184.jpg",
                 "image": "@PROJECT_PATH@/assets/images/12-inch-record-label-2000x2962.jpg",
                 "caption": "CD Cover, Front &amp; Back Of A Record Labels With Lyric And Artwork",
-                "active": true
+                "active": false
               }
             ],
             "spacing": "1",
