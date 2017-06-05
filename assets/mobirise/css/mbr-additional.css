@@ -1852,6 +1852,9 @@ h6,
 }
 
 
+#msg-box5-4j H3 {
+  color: #ffffff;
+}
 #ext_menu-s .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -1916,4 +1919,7 @@ h6,
 }
 #ext_menu-s .btn {
   font-family: 'Open Sans', sans-serif;
+}
+#msg-box4-4f H3 {
+  font-size: 36px;
 }
