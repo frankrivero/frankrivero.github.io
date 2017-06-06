@@ -4221,7 +4221,7 @@
             "paddingBottom": "1",
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/pr-generic-02-1408x792-2000x1125-81.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/pr-generic-04-1408x792-2000x1125.jpg",
             "bgColor": "#ffffff",
             "bgColorRadio": false,
             "bgVideo": {
